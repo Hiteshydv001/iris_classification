@@ -1,4 +1,3 @@
-![image](https://github.com/Hiteshydv001/iris_classification/assets/114931638/c2de9611-9efd-470c-9881-314345ef5abf)
 # Iris Flower Classification with Machine Learning
 
 The classification of iris flowers is a fundamental machine learning problem. This project showcases how to build, train, and evaluate a machine learning model for this task using Python and popular machine learning libraries. This project is an example of a machine learning classification task to identify three species of iris flowers: Setosa, Versicolor, and Virginica, based on their sepal and petal characteristics. The Iris dataset is a classic dataset often used for machine learning tutorials and demonstrations.
@@ -39,6 +38,8 @@ Optimize model hyperparameters for better performance.
 Evaluate model performance on the validation set using metrics (e.g., accuracy, precision, recall).
 Fine-tune models based on validation results.
 ## Screenshots
+
+![image](https://github.com/Hiteshydv001/iris_classification/assets/114931638/c2de9611-9efd-470c-9881-314345ef5abf)
 
 ![App Screenshot](https://github.com/Hiteshydv001/iris_classification/blob/main/Screenshot%202023-09-24%20112215.png?raw=true)
 
