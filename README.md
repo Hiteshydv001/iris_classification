@@ -47,8 +47,6 @@ Fine-tune models based on validation results.
 
 ![App Screenshot](https://github.com/Hiteshydv001/iris_classification/blob/main/download.png?raw=true)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 
 ## Tech Stack
@@ -63,12 +61,6 @@ Fine-tune models based on validation results.
 Insert gif or link to demo
 
 
-## 🔗 Links
-## let's connect
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-4b2735252/)
-
-
-
 ## Run Locally
 
 Clone the project
@@ -76,6 +68,14 @@ Clone the project
 ```bash
   git clone [https://link-to-project](https://github.com/Hiteshydv001/iris_classification.git)https://github.com/Hiteshydv001/iris_classification.git
 ```
+
+
+## 🔗 Links
+## let's connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-kumar-4b2735252/)
+
+
+
 
 
 
