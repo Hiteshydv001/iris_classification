@@ -74,9 +74,8 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Hiteshydv001/iris_classification.git)https://github.com/Hiteshydv001/iris_classification.git
 ```
-```Go to the project directory
-```
+
 
 
