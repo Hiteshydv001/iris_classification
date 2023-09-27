@@ -56,9 +56,6 @@ Fine-tune models based on validation results.
 **Framework:** Jupyter Notebook || Pycharm 
 
 
-## Demo
-
-Insert gif or link to demo
 
 
 ## Run Locally
